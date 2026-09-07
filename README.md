@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay M V</h1>
-<h3 align="center">Tinkerhub Lead @ SCET</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=TinkerHub+Lead+25-26+%40SCET;Curious+In+FIGMA!!!!!!;Extraordinary+Average+Guy+" alt="Typing SVG" /></a>
 
 [![💻 Built at TinkerSpace](https://img.shields.io/badge/Built%20at-TinkerSpace-blueviolet?style=for-the-badge&label=%F0%9F%92%BBBuilt%20at&labelColor=turquoise&color=white)](https://tinkerhub.org/tinkerspace)
 
