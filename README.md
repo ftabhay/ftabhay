@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay M V</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=TinkerHub+Lead+25-26+%40SCET;Curious+In+FIGMA!!!!!!;Extraordinary+Average+Guy+;Likes+To+Take+Authority" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=25&pause=1000&color=0024F7&center=true&width=435&lines=TinkerHub+Lead+25-26+%40SCET;Curious+In+FIGMA!!!!;Extraordinary+Average+Guy+;Likes+To+Take+Authority" alt="Typing SVG" /></a>
 
 [![💻 Built at TinkerSpace](https://img.shields.io/badge/Built%20at-TinkerSpace-blueviolet?style=for-the-badge&label=%F0%9F%92%BBBuilt%20at&labelColor=turquoise&color=white)](https://tinkerhub.org/tinkerspace)
 
@@ -39,5 +39,7 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ftabhay&" alt="ftabhay" /></p>
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlsYTdreW03NWl1eWdmNTM3YXZwY20xbjBwMnpnajYxcG9kamxmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="100%" alt="header"/>
+</div>
 
